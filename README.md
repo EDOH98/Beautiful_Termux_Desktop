@@ -11,3 +11,23 @@ enjoy my script
 have a good day
 
 thanks 🙏
+
+
+# XFCE4 Termux Desktop Setup Script
+
+This script sets up an XFCE4 desktop environment in Termux with optional installations like VS Code, Whitesur theme, Papirus icon theme, and browsers (Firefox or Chromium). You can also choose between using VNC or Termux-X11 to access the desktop.
+
+## Prerequisites
+
+- Termux installed on your Android device.
+- Basic understanding of Termux commands.
+  
+## Installation
+
+To install the script and configure the XFCE4 desktop environment, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/EDOH98/Beautiful_Termux_Desktop.git
+   cd <Beautiful_Termux_Desktop>
