@@ -32,4 +32,4 @@ To install the script and configure the XFCE4 desktop environment, follow these 
    git clone https://github.com/EDOH98/Beautiful_Termux_Desktop.git
    cd Beautiful_Termux_Desktop
    chmod 0755 Install_xfce_desktop.sh
-   bash Install_xfce_desktop.sh
+   bash 'Install _xfce_desktop.sh'
