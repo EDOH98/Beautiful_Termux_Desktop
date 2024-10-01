@@ -30,4 +30,4 @@ To install the script and configure the XFCE4 desktop environment, follow these 
 
    ```bash
    git clone https://github.com/EDOH98/Beautiful_Termux_Desktop.git
-   cd <Beautiful_Termux_Desktop>
+   cd Beautiful_Termux_Desktop```
